@@ -1,5 +1,5 @@
 
-//var config = require("config");
+
 var express = require("express");
 var adminRoutes= require("./routes/admin");
 var empRoutes= require("./routes/emp");
